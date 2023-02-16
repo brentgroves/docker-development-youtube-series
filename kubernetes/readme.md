@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=eyvLwK5C2dw
+# https://www.youtube.com/watch?v=eyvLwK5C2dw
+# https://www.youtube.com/watch?v=eyvLwK5C2dw
 # Learn Kubernetes <img src="https://www.shareicon.net/data/128x128/2017/04/11/883708_media_512x512.png" alt="YouTube" width="5%" height="5%"> :hammer::wrench:
 
 ## Full playlist

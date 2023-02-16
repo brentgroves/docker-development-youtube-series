@@ -95,7 +95,7 @@ SERVICE_PRINCIPAL_SECRET=(az ad sp credential reset --name $SERVICE_PRINCIPAL | 
 # use without `--admin` to get no priviledged user.
 
 az aks get-credentials -n aks-getting-started \
---resource-group $RESOURCEGROUP
+--resource-group $RESOURCEGROUP --admin
 
 #grab the config if you want it
 cp ~/.kube/config .
